@@ -1,4 +1,4 @@
 Stargate-Mod
 ============
 
-My first Minecraft MOd.
+My first Minecraft Mod.
